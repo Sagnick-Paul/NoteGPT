@@ -1,0 +1,67 @@
+# Core AI/LLM
+openai
+anthropic
+google-generativeai
+groq
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-text-splitters
+
+# Environment variables
+python-dotenv
+
+# Embeddings
+sentence-transformers
+transformers
+# torch
+
+
+# Vector databases
+faiss-cpu
+chromadb
+
+# Document loaders
+pypdf
+pdfplumber
+pymupdf
+unstructured
+python-docx
+openpyxl
+
+# Text processing
+tiktoken
+nltk
+spacy
+
+# API and Web Apps
+fastapi
+uvicorn
+streamlit
+gradio
+
+# # Data handling
+# numpy
+# pandas
+
+# Retrieval and reranking
+rank-bm25
+sentence-transformers
+
+# # Web scraping
+# beautifulsoup4
+# requests
+# lxml
+
+# Utilities
+tqdm
+pydantic
+tenacity
+
+# Jupyter
+jupyter
+ipykernel
