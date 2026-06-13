@@ -1,6 +1,6 @@
 # 📚 NoteGPT
 
-WEBSITE : https://notegpt-7cxl.onrender.com/
+WEBSITE : https://notegpt-brxfhnxamezyigttxapmnl.streamlit.app/
 
 An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload PDFs, notes, research papers, and study materials, then interact with them through natural language conversations.
 
