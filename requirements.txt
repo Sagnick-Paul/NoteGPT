@@ -11,7 +11,6 @@ langchain-community
 langchain-openai
 langchain-google-genai
 langchain-text-splitters
-langchain-embeddings
 langchain-huggingface
 
 # Environment variables
@@ -24,16 +23,13 @@ transformers
 
 
 # Vector databases
-faiss-cpu
 chromadb
 
 # Document loaders
 pypdf
 pdfplumber
 pymupdf
-unstructured
 python-docx
-openpyxl
 
 # Text processing
 tiktoken
@@ -53,17 +49,3 @@ gradio
 # Retrieval and reranking
 rank-bm25
 sentence-transformers
-
-# # Web scraping
-# beautifulsoup4
-# requests
-# lxml
-
-# Utilities
-tqdm
-pydantic
-tenacity
-
-# Jupyter
-jupyter
-ipykernel
